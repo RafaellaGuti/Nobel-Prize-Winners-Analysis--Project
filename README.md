@@ -20,7 +20,7 @@ www.Canva.com
   -Handled missing data by accurately manipulating null values and using them in a way that adds to the study instead of being an inconvenience.
   -Fixed and handled structural errors with the tools given by the programs.
 
-# Data Analysis, Interpretation and Visualization
+# Data Analysis, Interpretation and Visualization (The visualization Dashboard is presented in english)
 The study concluded with a Power BI interactive Dashboard that includes:
 - Front Page - Pagination
 - Page 1 : "Male Nobel Prize Winners in History" that summarizes the ammount of MALE winners, their location, the category and the years that answers questions regarding to:
