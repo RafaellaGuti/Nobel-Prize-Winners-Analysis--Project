@@ -32,7 +32,7 @@ The study concluded with a Power BI interactive Dashboard that includes:
 - Page 2: "Female Nobel Prize Winners in History" that summarizes the ammount of FEMALE winners, their location, the category and the years that answers the questions mentioned before.
 - Page 3: "Total Nobel Prize Winners in History" that answers the questions metioned before regardless of the gender.
 
-#Findings
+# Findings
 Total winners from 1901 to 2019 in all categories = 2,089
 Total female winners from 1901 to 2019 in all categories = 122, Percentage of total 5.9%
 Total male winners from 1901 to 2019 in all categories = 1,929, Percentage of total 92.4%
@@ -68,7 +68,7 @@ Economics - North America with 117 total winners.
 Peace - Europe with 128 total winners.
 Literature - Europe with 192 total winners.
 
-#Conclusions:
+# Conclusions:
 
 The distribution of Nobel Prizes between men and women is notably unequal, with an overwhelming majority of male winners compared to female winners. This reflects historical gender disparities in the fields of science, literature, and peace, but also highlights the progress towards gender equity that still needs to be achieved in these fields.
 
@@ -117,7 +117,7 @@ El estudio concluyó con un Tablero interactivo en Power BI que incluye:
 - Página 2: "Ganadoras Femeninas del Premio Nobel en la Historia" que resume la cantidad de ganadoras FEMENINAS, su ubicación, la categoría y los años, respondiendo a las preguntas mencionadas anteriormente.
 - Página 3: "Total de Ganadores del Premio Nobel en la Historia" que responde a las preguntas mencionadas anteriormente, independientemente del género.
 
-#Descubrimientos
+# Descubrimientos
 
 Ganadores totales desde 1901 a 2019 en todas las categorias=  2.089
 Ganadoras femeninas totales desde 1901 a 2019 en todas las categorias= 122 Porcentaje a partir del total 5.9%
@@ -156,7 +156,7 @@ Economia - Norte America con 117 ganadores totales.
 Paz - Europa con 128 ganadores totales. 
 Literatura - Europa con 192 ganadores totales. 
 
-#Conclusiones
+# Conclusiones
 
 La distribución de los premios Nobel entre hombres y mujeres es notablemente desigual, con una abrumadora mayoría de ganadores masculinos en comparación con las ganadoras femeninas. Esto refleja las disparidades de género históricas en los campos de la ciencia, la literatura y la paz, pero también destaca el progreso hacia la equidad de género que aún queda por alcanzar en estos campos.
 
